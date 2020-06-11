@@ -331,7 +331,7 @@
           "optionText": "错误"
         },
         {
-          "answer": false,
+          "answer": true,
           "id": "8a61bfa7-865f-459b-a67d-74a26847f149",
           "optionLabel": "B",
           "optionOrder": 0,
