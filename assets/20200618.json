@@ -1,0 +1,413 @@
+{
+    "remainSecond": 600,
+    "remainingTime": 10,
+    "stems": [
+        {
+            "description": "S级领导班子成员接待的企事业客户,用餐标准（）",
+            "id": "646083aa-5046-4a0d-9107-f83d233cb296",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "d495fc88-d88c-4c1e-bb70-f44d72d1934f",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "500元以内/人"
+                },
+                {
+                    "answer": false,
+                    "id": "f5a671fd-3fe5-4979-8831-46235e795629",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "600元以内/人"
+                },
+                {
+                    "answer": false,
+                    "id": "e20144ce-957c-45cd-8600-b27bc82d2997",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "800元以内/人"
+                },
+                {
+                    "answer": false,
+                    "id": "9216b238-5695-4654-9d38-fb15175ceff4",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "300元以内/人"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "小型研讨会、评审会、部门会议属于（）会议",
+            "id": "f1f95640-cc50-406f-a140-c2babcc48f82",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "1b4c2303-a0d5-410c-876a-cdc9d77d7112",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "二类"
+                },
+                {
+                    "answer": false,
+                    "id": "aca4dda9-7275-4db8-a1bb-5c0ff701a67d",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "一类"
+                },
+                {
+                    "answer": true,
+                    "id": "1eff8a6b-4717-4194-828a-7d87aef07599",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "四类"
+                },
+                {
+                    "answer": false,
+                    "id": "67e7925e-54cf-400b-8b9b-d2ce81f0d045",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "三类"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "分公司条线会议，会议餐费标准（）",
+            "id": "ceb6eaf0-f9bb-4a6f-ac68-c6c105532044",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "88201bbd-a330-4683-ad1f-880447b7c255",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "250元/人"
+                },
+                {
+                    "answer": false,
+                    "id": "c19b29cb-e730-4401-b81e-b446720e878c",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "180元/人"
+                },
+                {
+                    "answer": true,
+                    "id": "0723ab52-4208-4a0b-baba-cb85ef727176",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "120元/人"
+                },
+                {
+                    "answer": false,
+                    "id": "3f290a3b-3d47-44e7-a6ff-f08aa047badf",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "150元/人"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "住宿标准为三星级酒店标准间的接待有（）",
+            "id": "066c6754-e8e6-42f9-8b94-ce96fdbc025c",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "78a5a39d-1c73-4142-8e1d-170027a33a6d",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "二级、三级"
+                },
+                {
+                    "answer": false,
+                    "id": "fa204184-4cd9-4c29-8208-7ac403068a33",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "一级、二级"
+                },
+                {
+                    "answer": false,
+                    "id": "2177d507-b2a3-425f-8b8d-c028a64ed0a0",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "全部"
+                },
+                {
+                    "answer": true,
+                    "id": "d9d359d7-ad36-47bc-ace3-d0747d6ffe27",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "三级、四级"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "分公司负责人接待的企事业客户，用餐标准（）",
+            "id": "e6fe3ec6-d443-447b-8f68-a6546ad2f4e5",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "5321c88f-468a-45cc-a450-bb62f2def40d",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "200元以内/人"
+                },
+                {
+                    "answer": false,
+                    "id": "020f1127-fc92-4218-8feb-64dbc5e74c89",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "300元以内/人"
+                },
+                {
+                    "answer": false,
+                    "id": "94594334-0a45-4f5b-944a-deb8088ace56",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "350元以内/人"
+                },
+                {
+                    "answer": false,
+                    "id": "d94773df-f4eb-4125-992a-09cce6aa9835",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "150元以内/人"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "以下可以享有场地租金60元/㎡/天会议的有（)",
+            "id": "dc79fe75-bd51-4793-b5fa-963e0ec0c770",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "ad2f211f-e8be-4e09-b873-a7bc6600962e",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "评审会"
+                },
+                {
+                    "answer": false,
+                    "id": "f8c85939-94c0-45e8-80ca-9e1e9a326012",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "座谈会"
+                },
+                {
+                    "answer": false,
+                    "id": "e2196296-b150-4552-a5d2-c04fccaa2485",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "小型研讨会"
+                },
+                {
+                    "answer": true,
+                    "id": "072a09b2-e32c-47ad-9a29-f523155620ec",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "总裁办公会"
+                },
+                {
+                    "answer": true,
+                    "id": "f2d0fe44-f697-424f-9142-14e66f48709c",
+                    "optionLabel": "E",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "年度/年中工作会议"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "2"
+        },
+        {
+            "description": "会议遵循原则（）",
+            "id": "8ed3451b-f4eb-41bc-b7c5-6051276644f1",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "2e9a16ca-2a2f-400f-94f2-041ffc112503",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "节约"
+                },
+                {
+                    "answer": false,
+                    "id": "b7695785-988f-40e2-9ee7-53c220c11c90",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "和谐"
+                },
+                {
+                    "answer": true,
+                    "id": "0fa91694-60a8-43fa-a388-ec6dacb616a5",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "对口"
+                },
+                {
+                    "answer": true,
+                    "id": "1ea15fae-2c1f-4a91-94a1-2302a06c018e",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "保密"
+                },
+                {
+                    "answer": true,
+                    "id": "4f6a4a94-f40a-4db4-8317-f882b9342cbb",
+                    "optionLabel": "E",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "平等"
+                },
+                {
+                    "answer": true,
+                    "id": "691c7833-18b6-4073-959b-d1a5052d98be",
+                    "optionLabel": "F",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "周到"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "2"
+        },
+        {
+            "description": "会议费开支实行综合定额控制，各项费用之间不可调剂使用",
+            "id": "7d2daaa1-d93c-437a-a6e9-d54c0b3466b2",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "bfea7f31-65e6-4f3e-ba69-4e28f4ee67cd",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                },
+                {
+                    "answer": false,
+                    "id": "11e337ad-d34e-4a0c-9e1c-a1b1440da1ae",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        },
+        {
+            "description": "接待方陪同人数应根据需要适当安排，原则上不得超过接待对象人数的三分之一",
+            "id": "4e8a8a32-6fda-4c2a-b605-085201b9c9f3",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "6d3517a0-f6f5-4dcd-aaea-41d5938b4fad",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                },
+                {
+                    "answer": true,
+                    "id": "bd19ebd0-165f-4ea9-ba6b-62702b9557b6",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        },
+        {
+            "description": "公务接待用餐标准是含陪同人员的",
+            "id": "6b5fc3cd-3467-497c-a049-647c708ea30d",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "34eb454c-1b03-4bb4-84c7-021175e67599",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                },
+                {
+                    "answer": true,
+                    "id": "7e024c23-a530-4944-b5ba-114fb2a84810",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        }
+    ],
+    "userTestResultId": "3529fd4d-ce39-46e0-9afd-bfe0f90a7918"
+}
