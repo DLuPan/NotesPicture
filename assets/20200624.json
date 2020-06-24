@@ -1,0 +1,365 @@
+{
+    "remainSecond": 600,
+    "remainingTime": 10,
+    "stems": [
+        {
+            "description": "以下哪个不属于使用邮件发送会议纪要时的要点？",
+            "id": "7f3e0143-838e-4b38-8f04-f1b84f44c74c",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "e4cf501a-7cc8-45ab-bd14-840fb1a1ae80",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "确认内容 - 防止漏听，误会"
+                },
+                {
+                    "answer": false,
+                    "id": "2772bdd9-d762-448b-ad3f-daf251820e66",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "保存归档 - 以后可能要追溯回看"
+                },
+                {
+                    "answer": true,
+                    "id": "498a0d64-0f7b-4381-abcc-f59555e44777",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "欢迎拍砖 - 和您的工作有什么冲突"
+                },
+                {
+                    "answer": false,
+                    "id": "891b0d91-ced0-4f63-84cd-981b71c12e91",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "做出响应 - 照着行动事项开始干活"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "发送邮件称呼收件者时，以下哪些选项是错误的？",
+            "id": "98859297-405f-4419-a2c9-1f367174c683",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "1fd4f8be-a14a-40e3-bbdb-bde17936f1b7",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "称呼全名不礼貌， 忌不熟悉单字称呼 "
+                },
+                {
+                    "answer": true,
+                    "id": "b58c6468-0afc-4b0b-afd1-f210cade7bf3",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "不熟悉或级别高于自己时可直接称呼英文名 "
+                },
+                {
+                    "answer": false,
+                    "id": "98e5499e-37fa-4e1a-a4b3-f231424ffb89",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "不清楚职务，按 “X先生”、“X小姐”称呼，忌混淆性别 "
+                },
+                {
+                    "answer": false,
+                    "id": "a568ce0c-189b-4a03-8110-332af379dd9a",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "勿逮谁都用“Dear xxx”，显得很熟络"
+                },
+                {
+                    "answer": false,
+                    "id": "20cfa6df-5801-4805-8fd5-ad10315f1a80",
+                    "optionLabel": "E",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "按职务尊称，如“XX经理”"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "1"
+        },
+        {
+            "description": "拟定邮件标题应简明扼要，还需要注意以下哪些要点？",
+            "id": "45262fbb-8e7d-480f-ad54-50225eb953d0",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "739f1057-d279-44d9-9fbf-4d55158775e0",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "勿空白、勿错字、勿冗长"
+                },
+                {
+                    "answer": true,
+                    "id": "29f0207c-f4d7-44a0-bc6c-056bff34a9d3",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "回邮件时，可根据内容更改主题"
+                },
+                {
+                    "answer": true,
+                    "id": "d4b0111a-e90b-4dc2-8063-a5ca87d624ba",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "可适当使用特殊字符，勿随便用“紧急”"
+                },
+                {
+                    "answer": true,
+                    "id": "4e7753b8-98fe-4179-94dc-f3bf1d8fa945",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "忌含义不清，需反映内容和重要性"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "2"
+        },
+        {
+            "description": "以下哪些是向上级发送邮件请求批示时应注意的要点？",
+            "id": "44fc73f9-026b-42dd-99ef-02b5dc294b6a",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "5d5c998b-f718-4af0-b0a0-291725e1429a",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "5W1H,根据需要补充背景资料"
+                },
+                {
+                    "answer": true,
+                    "id": "1679e7e4-a61e-4f70-8d4b-dc2f5ad4d6ac",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "超10分钟，勿邮件"
+                },
+                {
+                    "answer": true,
+                    "id": "d23a1c77-a50c-45bf-98ac-c804a7903f13",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "问题与解决方案"
+                },
+                {
+                    "answer": false,
+                    "id": "d676109d-6a26-4ad4-b2ba-e68da2e5e2da",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "信息安全，机密文档不随意转发"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "2"
+        },
+        {
+            "description": "发送邮件给他人时，应避免以下哪些？",
+            "id": "03b56eef-cc46-487e-a85b-c2aa344ea79e",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "36b81f8a-8c7c-460d-8937-77394b4e1089",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "同一主题讨论内容：避免多次反复发送，可面对面交流"
+                },
+                {
+                    "answer": true,
+                    "id": "87906b28-1b43-4670-81ee-2abc6d85e8c7",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "细节性讨论意见：避免发给高层级管理者，特别是可以判断是期不能深入了解的业务细节"
+                },
+                {
+                    "answer": true,
+                    "id": "346f897a-bcc7-45d3-8449-becb6a3acc81",
+                    "optionLabel": "C",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "非重要沟通：知会的需要而抄送给直接和间接上级"
+                },
+                {
+                    "answer": true,
+                    "id": "a77999d5-01a8-48f9-ba0a-c8856ebde244",
+                    "optionLabel": "D",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "不确定结果：不要向上司频繁发送,不随便向群体邮箱发送不必要消息"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "2"
+        },
+        {
+            "description": "如果不希望主送/抄送的人看到收件名单，可使用密送",
+            "id": "0930e76e-2a19-491b-b50b-09031ee5f5b7",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "23765a24-72a0-42f7-bf96-3bd7eda1bf4b",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                },
+                {
+                    "answer": true,
+                    "id": "e6677910-f39f-4775-ac46-82c362b90218",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        },
+        {
+            "description": "“王经理收”是一个恰当的邮件标题",
+            "id": "faf33aaf-1015-4a6e-9b3b-7247cb1b164c",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "3d1db0ef-0c37-4328-a869-14a5b523c6eb",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                },
+                {
+                    "answer": false,
+                    "id": "6beae835-2f23-421d-9254-07df4e6262bf",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        },
+        {
+            "description": "发送邮件时，根据重要性确认是否抄送给主管的上级，一般情况下不建议抄送，不确定时可由主管判断。",
+            "id": "a38d0fe8-830f-4bb2-982b-96fb2ef747b3",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "78f44486-7dbf-4151-bf31-10335321138e",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                },
+                {
+                    "answer": true,
+                    "id": "073fc222-de6a-4df5-b87f-96d64a63e5e1",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        },
+        {
+            "description": "Dear XXX可作为对任何人发邮件时的称谓",
+            "id": "2449b4b0-dade-4c5f-9f34-4534e9c88c1c",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": true,
+                    "id": "23552290-5225-4b48-9931-714696d9ccf3",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                },
+                {
+                    "answer": false,
+                    "id": "f9f7a6de-d6ac-4538-ba9c-be866f426060",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        },
+        {
+            "description": "发邮件时，尽可能一邮一事一标题，标题与内容相关",
+            "id": "fababe73-7eb7-48a3-80fc-d7c5d2e4c0bc",
+            "knowledgePoint": "",
+            "options": [
+                {
+                    "answer": false,
+                    "id": "77787450-53d6-410e-ab38-2a1d1057b581",
+                    "optionLabel": "A",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "错误"
+                },
+                {
+                    "answer": true,
+                    "id": "cac4ec2f-3a35-4e46-8d0a-89082d2e7bd4",
+                    "optionLabel": "B",
+                    "optionOrder": 0,
+                    "optionPicture": null,
+                    "optionText": "正确"
+                }
+            ],
+            "orderIndex": 0,
+            "scores": 10,
+            "stemPicture": null,
+            "type": "3"
+        }
+    ],
+    "userTestResultId": "54982c89-b0b3-4c2a-ac80-6c13ea38beba"
+}
