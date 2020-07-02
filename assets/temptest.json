@@ -1,0 +1,182 @@
+{
+	"stems": [
+		{
+			"description": "加班小时数以（）个小时为最小加班登记单位，每天加班最高计算单位为（）个小时。",
+			"options": [
+				{
+					"optionText": "3.5；7.5",
+					"answer": false
+				},
+				{
+					"optionText": "1；8",
+					"answer": false
+				},
+				{
+					"optionText": "3.5；8",
+					"answer": false
+				},
+				{
+					"optionText": "4；8",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "员工出差返回后，应在（）个工作日内办理报销手续. ①3 ②4 ③5 ④6",
+			"options": [
+				{
+					"optionText": "③5",
+					"answer": true
+				},
+				{
+					"optionText": "④6",
+					"answer": false
+				},
+				{
+					"optionText": "①3",
+					"answer": false
+				},
+				{
+					"optionText": "②4",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "病假工资支付标准：根据各工作所在地的政府规定执行。如深圳市的执行标准为按照员工工资标准的（）支付员工病假工资，但不低于深圳市上年度最低工资的（）。",
+			"options": [
+				{
+					"optionText": "60%；80%",
+					"answer": true
+				},
+				{
+					"optionText": "80%；80%",
+					"answer": false
+				},
+				{
+					"optionText": "70%；80%",
+					"answer": false
+				},
+				{
+					"optionText": "50%；80%",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "以下哪种情况不视为加班：",
+			"options": [
+				{
+					"optionText": "员工未经书面批准自行延长的工作时间",
+					"answer": true
+				},
+				{
+					"optionText": "公司在节假日组织的郊游及其他娱乐活动",
+					"answer": true
+				},
+				{
+					"optionText": "由公司安排或者批准在正常工作时间以外的工作",
+					"answer": false
+				},
+				{
+					"optionText": "加班过程中处理个人事务的时间",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "员工工作年限在1年-10年，10年（含）-20年，20年及以上分别享有年休假（）、（）、（）天",
+			"options": [
+				{
+					"optionText": "5",
+					"answer": true
+				},
+				{
+					"optionText": "15",
+					"answer": true
+				},
+				{
+					"optionText": "7",
+					"answer": false
+				},
+				{
+					"optionText": "10",
+					"answer": true
+				},
+				{
+					"optionText": "3",
+					"answer": false
+				},
+				{
+					"optionText": "13",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "如国内出差，机票需提前3天预定，且需是8折以下，前后一小时内的低价航班。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": false
+				},
+				{
+					"optionText": "正确",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "出差返回后需于一个月内完成报销流程。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": false
+				},
+				{
+					"optionText": "正确",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "年休假须在当年度内申请使用，不可跨年度使用，如因业务特殊需要，确实无法安排当年休完当年年假，经部门负责人审核、综合中心负责人复核，部门分管领导批准，未休完年假可延长至下一年第二季度前休完。过期视为自动放弃。",
+			"options": [
+				{
+					"optionText": "正确",
+					"answer": false
+				},
+				{
+					"optionText": "错误",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "分公司及门店员工着装按照运营规范着装要求执行。",
+			"options": [
+				{
+					"optionText": "正确",
+					"answer": true
+				},
+				{
+					"optionText": "错误",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "对工作不满一年的员工（如当年度入职的员工或当年度离职的员工），当年度的可休年假天数根据在岗日期进行折算，折算后不足1整天的部分不享受年休假。",
+			"options": [
+				{
+					"optionText": "正确",
+					"answer": true
+				},
+				{
+					"optionText": "错误",
+					"answer": false
+				}
+			]
+		}
+	]
+}
