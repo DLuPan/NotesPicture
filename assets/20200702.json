@@ -1,0 +1,202 @@
+{
+	"stems": [
+		{
+			"description": "重要邮件立即回复,理想时间（）内，紧急重要的更迅速按邮件优先级处理，较低集中片理，延后不超过24H",
+			"options": [
+				{
+					"optionText": "2H",
+					"answer": true
+				},
+				{
+					"optionText": "1H",
+					"answer": false
+				},
+				{
+					"optionText": "4H",
+					"answer": false
+				},
+				{
+					"optionText": "3H",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "邮件回复交流超过（），请电话或其方式交流，再做判断",
+			"options": [
+				{
+					"optionText": "3次",
+					"answer": true
+				},
+				{
+					"optionText": "2次",
+					"answer": false
+				},
+				{
+					"optionText": "1次",
+					"answer": false
+				},
+				{
+					"optionText": "4次",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "以下哪个是关于邮件正文的要求？",
+			"options": [
+				{
+					"optionText": "表述客观， 注意语气",
+					"answer": true
+				},
+				{
+					"optionText": "少用：）之类符号",
+					"answer": true
+				},
+				{
+					"optionText": "内容完整勿错误、 别字",
+					"answer": true
+				},
+				{
+					"optionText": "简明扼要， 行文通畅",
+					"answer": true
+				},
+				{
+					"optionText": "特殊格式， 说明打开方式",
+					"answer": false
+				},
+				{
+					"optionText": "多用一、 1、 之类列表",
+					"answer": true
+				},
+				{
+					"optionText": "合适字体、 字号、 颜色",
+					"answer": true
+				},
+				{
+					"optionText": "不超4个， 多时压缩",
+					"answer": false
+				},
+				{
+					"optionText": "合理提示， 表格等辅助",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "回复邮件要注意以下哪些？",
+			"options": [
+				{
+					"optionText": "回复建议",
+					"answer": true
+				},
+				{
+					"optionText": "针对回复",
+					"answer": true
+				},
+				{
+					"optionText": "及时回复",
+					"answer": true
+				},
+				{
+					"optionText": "单人全部",
+					"answer": true
+				},
+				{
+					"optionText": "保持线索",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "以下哪个是关于邮件附件的要求？",
+			"options": [
+				{
+					"optionText": "正文提示并简要说明",
+					"answer": true
+				},
+				{
+					"optionText": "附件命名与内容一致",
+					"answer": true
+				},
+				{
+					"optionText": "不超4个， 多时压缩",
+					"answer": true
+				},
+				{
+					"optionText": "注意附件大小， 过大时适当分割",
+					"answer": true
+				},
+				{
+					"optionText": "特殊格式， 说明打开方式",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "邮件针对不同的发送人群，可使用同一个签名档",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": true
+				},
+				{
+					"optionText": "正确",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "为了便于交流，邮件签名的信息越多越详细越好",
+			"options": [
+				{
+					"optionText": "正确",
+					"answer": false
+				},
+				{
+					"optionText": "错误",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "在邮件正文中，可注明回复信息“收到邮件请回复”",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": false
+				},
+				{
+					"optionText": "正确",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "回复邮件时，单独一人知道的事，应该使用“回复全部”",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": true
+				},
+				{
+					"optionText": "正确",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "点击“回复全部”前，应三思而后回",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": false
+				},
+				{
+					"optionText": "正确",
+					"answer": true
+				}
+			]
+		}
+	]
+}
