@@ -1,0 +1,186 @@
+{
+	"stems": [
+		{
+			"description": "员工主动申请事假最长期限为（）。",
+			"options": [
+				{
+					"optionText": "2个月",
+					"answer": false
+				},
+				{
+					"optionText": "1个月",
+					"answer": true
+				},
+				{
+					"optionText": "0.5个月",
+					"answer": false
+				},
+				{
+					"optionText": "3个月",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "联动云区域分公司实行（）企业微信拍照打卡的方式记录员工出勤。",
+			"options": [
+				{
+					"optionText": "上下班2次",
+					"answer": true
+				},
+				{
+					"optionText": "上班1次",
+					"answer": false
+				},
+				{
+					"optionText": "早中晚3次",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "事假的最小请假单位为（）天。",
+			"options": [
+				{
+					"optionText": "2",
+					"answer": false
+				},
+				{
+					"optionText": "1",
+					"answer": false
+				},
+				{
+					"optionText": "0.5",
+					"answer": true
+				},
+				{
+					"optionText": "3",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "总部考勤方式包括：",
+			"options": [
+				{
+					"optionText": "纸质签到",
+					"answer": false
+				},
+				{
+					"optionText": "人脸/指纹打卡",
+					"answer": true
+				},
+				{
+					"optionText": "WiFi打卡",
+					"answer": true
+				},
+				{
+					"optionText": "拍照签到",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "员工工作年限在1年-10年，10年（含）-20年，20年及以上分别享有年休假（）、（）、（）天。",
+			"options": [
+				{
+					"optionText": "15",
+					"answer": true
+				},
+				{
+					"optionText": "5",
+					"answer": true
+				},
+				{
+					"optionText": "13",
+					"answer": false
+				},
+				{
+					"optionText": "3",
+					"answer": false
+				},
+				{
+					"optionText": "10",
+					"answer": true
+				},
+				{
+					"optionText": "7",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "连续旷工（）个工作日或年累计旷工达（）个工作日，除按规定扣除相应工资外，并作解除劳动合同处理。",
+			"options": [
+				{
+					"optionText": "5",
+					"answer": true
+				},
+				{
+					"optionText": "4",
+					"answer": false
+				},
+				{
+					"optionText": "3",
+					"answer": true
+				},
+				{
+					"optionText": "6",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "病假工资支付标准：总部和区域分公司均按照员工工资标准的60%支付员工病假工资。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": true
+				},
+				{
+					"optionText": "正确",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "年休假天数根据员工累计工作年限确定。员工工作年限是指员工的社会工龄，以实际参加社会工作的累计月数计算（原则上以社保缴交累计年限为依据）。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": false
+				},
+				{
+					"optionText": "正确",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "年休假须在当年度内申请使用，不可跨年度使用，如因业务特殊需要，确实无法安排当年休完当年年假，经部门负责人审核、人力资源中心负责人复核，部门分管领导批准，未休完年假可延长至下一年第二季度前休完。过期视为自动放弃。",
+			"options": [
+				{
+					"optionText": "正确",
+					"answer": false
+				},
+				{
+					"optionText": "错误",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "对工作不满一年的员工（如当年度入职的员工或当年度离职的员工），当年度的可休年假天数根据在岗日期进行折算，折算后不足1整天的部分不享受年休假。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": false
+				},
+				{
+					"optionText": "正确",
+					"answer": true
+				}
+			]
+		}
+	]
+}
