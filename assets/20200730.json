@@ -1,0 +1,190 @@
+{
+	"stems": [
+		{
+			"description": "3、员工劳动合同、在职证明、离职证明属于下列哪一种用印类型？",
+			"options": [
+				{
+					"optionText": "行政类",
+					"answer": false
+				},
+				{
+					"optionText": "财务类",
+					"answer": false
+				},
+				{
+					"optionText": "人事类",
+					"answer": true
+				},
+				{
+					"optionText": "业务类",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "2、印章外携需在完成审批后提前多少个工作日通知印章管理员安排印章外携？",
+			"options": [
+				{
+					"optionText": "2个",
+					"answer": false
+				},
+				{
+					"optionText": "5个",
+					"answer": true
+				},
+				{
+					"optionText": "3个",
+					"answer": false
+				},
+				{
+					"optionText": "1个",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "1、按照联动云印章管理办法，公司印章必须由下列哪个部门统一刻制？",
+			"options": [
+				{
+					"optionText": "人力资源中心",
+					"answer": false
+				},
+				{
+					"optionText": "财务中心",
+					"answer": false
+				},
+				{
+					"optionText": "综合行政中心印章档案室",
+					"answer": true
+				},
+				{
+					"optionText": "资产管理中心",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "联动云NBPM发起合同审批申请需明确以下哪些内容？",
+			"options": [
+				{
+					"optionText": "印章全称",
+					"answer": true
+				},
+				{
+					"optionText": "用印数量",
+					"answer": true
+				},
+				{
+					"optionText": "用印文件名称",
+					"answer": true
+				},
+				{
+					"optionText": "关联立项及上传附件",
+					"answer": true
+				},
+				{
+					"optionText": "办理事项",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "联动云分子公司的设立完成后须申请刻制哪些印章？",
+			"options": [
+				{
+					"optionText": "合同专用章",
+					"answer": false
+				},
+				{
+					"optionText": "公章",
+					"answer": true
+				},
+				{
+					"optionText": "法人/负责人名章",
+					"answer": true
+				},
+				{
+					"optionText": "发票专用章",
+					"answer": true
+				},
+				{
+					"optionText": "财务专用章",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "下列哪些属于特殊事项行政类？",
+			"options": [
+				{
+					"optionText": "业务单位往来函件",
+					"answer": true
+				},
+				{
+					"optionText": "舆情说明",
+					"answer": true
+				},
+				{
+					"optionText": "外部机构战略文件",
+					"answer": true
+				},
+				{
+					"optionText": "上报部门监管报告",
+					"answer": true
+				}
+			]
+		},
+		{
+			"description": "某分公司员工私自刻制带有该分公司名称的印章，该行为违反了公司印章管理办法，当事人负有直接责任，其上级负有间接管理责任，将依据公司管理规定，视情节严重给予相关人员处罚，涉及犯罪的，将移交司法机关。",
+			"options": [
+				{
+					"optionText": "正确",
+					"answer": true
+				},
+				{
+					"optionText": "错误",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "联动云总部某员工因业务需要，需申请用领道体系公章可直接用联动云NBPM系统申请用印。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": true
+				},
+				{
+					"optionText": "正确",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "联动云公章及财务类印章均在总部综合行政中心印章档案保管。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": true
+				},
+				{
+					"optionText": "正确",
+					"answer": false
+				}
+			]
+		},
+		{
+			"description": "联动云某分公司设立完成，当地综管配合提交印章刻制材料后由印章刻制单位刻制印章完成，当地综管可自行领取该分公司印章及备案回执（如有）。",
+			"options": [
+				{
+					"optionText": "错误",
+					"answer": true
+				},
+				{
+					"optionText": "正确",
+					"answer": false
+				}
+			]
+		}
+	]
+}
