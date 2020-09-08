@@ -1,0 +1,324 @@
+{
+	"result": {
+		"visibility": null,
+		"idList": null,
+		"id": "651bef2e-6a6d-4b6b-bfa8-c7de788bd5d4",
+		"categoryId": null,
+		"name": "网络信息安全考试",
+		"duration": 60,
+		"scores": 100,
+		"passScore": 80,
+		"summary": "本试题针对集团及各板块全体人员开放",
+		"review": 2,
+		"testFrequency": 3,
+		"orgName": null,
+		"status": "1",
+		"operational": false,
+		"stems": null,
+		"type": null,
+		"createdUser": null,
+		"updatedTime": null,
+		"orgId": null,
+		"startTime": "2020-08-01 08:00",
+		"endTime": "2020-12-31 23:59",
+		"topicCount": 20,
+		"userExamDTO": {
+			"examTimes": 1,
+			"userScores": 75,
+			"objectiveScores": 75,
+			"subjectiveScores": 0,
+			"scoreStatus": "1",
+			"userTestStatus": 0,
+			"userTestResultId": null,
+			"startTestTime": null,
+			"submitTestTime": null,
+			"planSubmitTime": null,
+			"userSubmitDuration": null
+		},
+		"userExamDTOs": null,
+		"resourceId": "a3a12665-63c1-4e06-9b80-862b1b0ebcd0",
+		"testStatus": 2
+	},
+	"stems": [
+		{
+			"id": "1be32489-7a0b-4f4f-9ec1-fc7784b311e0",
+			"type": "2",
+			"scores": 5,
+			"stemPicture": null,
+			"orderIndex": 0,
+			"description": "以下哪项行为可能造成信息泄露？",
+			"knowledgePoint": "",
+			"options": [
+				{
+					"id": "525719c1-caac-4ffb-a72b-2164903278d4",
+					"optionLabel": "A",
+					"optionText": "在微博、朋友圈、贴吧等公开发布个人照片、定位等",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "3bf829e4-78ae-4427-96e3-75b1a6ed75d5",
+					"optionLabel": "B",
+					"optionText": "提供真实信息用于网络测试",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "64925c8d-d41f-4361-9bd5-8dfe4f36c8ec",
+					"optionLabel": "C",
+					"optionText": "随意扫描任何二维码",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "8cdc4d7b-e7f2-44e6-94df-dfcdddbab90d",
+					"optionLabel": "D",
+					"optionText": "离开电脑时不进行锁屏",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				}
+			],
+			"correct": false
+		},
+		{
+			"id": "c2505c02-a7dd-4fd0-8834-4ef8a0b96554",
+			"type": "2",
+			"scores": 5,
+			"stemPicture": null,
+			"orderIndex": 0,
+			"description": "根据《宝能集团桌面系统及设备管理规定》，一个部门能申请多少个名额的QQ、微信权限？",
+			"knowledgePoint": "",
+			"options": [
+				{
+					"id": "3e6e3e5b-074d-4b64-a9b6-ba27a67713b3",
+					"optionLabel": "A",
+					"optionText": "1个",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "72274d7a-5322-40ab-9270-bfae3229aa26",
+					"optionLabel": "B",
+					"optionText": "2个",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "0c2a2fb3-4ef8-4c15-b280-d26d6f2fcaa3",
+					"optionLabel": "C",
+					"optionText": "3个",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "4a82e3c2-e1d9-4f49-8aff-f64a92339bd4",
+					"optionLabel": "D",
+					"optionText": "4个",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				}
+			],
+			"correct": false
+		},
+		{
+			"id": "8bfd34c5-e9d4-4f42-b670-95a950b74039",
+			"type": "2",
+			"scores": 5,
+			"stemPicture": null,
+			"orderIndex": 0,
+			"description": "因工作需要共享，以下描述错误的是？",
+			"knowledgePoint": "",
+			"options": [
+				{
+					"id": "0b7bac85-4c48-431d-8147-39906c4a698a",
+					"optionLabel": "A",
+					"optionText": "员工可以自行设置共享，并对所有人开放读写权限。",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "cb026da1-0b8c-4d69-a5fd-0df0215bce62",
+					"optionLabel": "B",
+					"optionText": "员工可以自行设置共享，只对指定的用户开放只读权限，其他用户不可访问。",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "434ad954-ec76-4c5e-a2f5-00501d6143c9",
+					"optionLabel": "C",
+					"optionText": "员工应通知集团信息管理中心进行设置，并对所有人开放读写权限。",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "be10ccd7-ad72-4707-9804-958f76fcf9fd",
+					"optionLabel": "D",
+					"optionText": "员工应通知集团信息管理中心进行设置，只对指定的用户开放只读权限，其他用户不可访问。",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				}
+			],
+			"correct": false
+		},
+		{
+			"id": "b230b10a-3594-4353-a101-dba1c5d099fb",
+			"type": "2",
+			"scores": 5,
+			"stemPicture": null,
+			"orderIndex": 0,
+			"description": "员工因工作需要以集团邮箱对外发送邮件时，被拦截了，可能的原因有？",
+			"knowledgePoint": "",
+			"options": [
+				{
+					"id": "a9ee5c37-f9ba-45cf-b41f-e44e83552d03",
+					"optionLabel": "A",
+					"optionText": "未抄送所在部门的负责人。",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "e80fd538-2040-4b78-9125-5723fd08c87a",
+					"optionLabel": "B",
+					"optionText": "未抄送自己。",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "9d1212b0-575e-4563-a086-05e7af335069",
+					"optionLabel": "C",
+					"optionText": "邮件内容大小超过40M。",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "431afa46-ec30-4b1c-a821-1078dc73faeb",
+					"optionLabel": "D",
+					"optionText": "邮件内容涉嫌包含集团涉密信息。",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				}
+			],
+			"correct": false
+		},
+		{
+			"id": "1007b3bc-c08a-4c4f-8b0e-362d7069b3e3",
+			"type": "2",
+			"scores": 5,
+			"stemPicture": null,
+			"orderIndex": 0,
+			"description": "涉及工作的重要文件，不得存放在以下哪些位置？",
+			"knowledgePoint": "",
+			"options": [
+				{
+					"id": "bf14939b-914a-4224-af3c-4b70987663f3",
+					"optionLabel": "A",
+					"optionText": "C盘目录及其子目录",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 1
+				},
+				{
+					"id": "9ebf8b2b-5a27-4438-b24f-b8314d523cd0",
+					"optionLabel": "B",
+					"optionText": "D盘目录及其子目录",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "e720b151-9745-457f-b37b-ebfbca692381",
+					"optionLabel": "C",
+					"optionText": "E盘目录及其子目录",
+					"optionPicture": null,
+					"answer": false,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				},
+				{
+					"id": "02beb89a-dc61-4a38-b155-76a15c0557d7",
+					"optionLabel": "D",
+					"optionText": "桌面目录及其子目录",
+					"optionPicture": null,
+					"answer": true,
+					"answerContent": null,
+					"answerScores": 0,
+					"optionOrder": 0,
+					"isUserAnswer": 0
+				}
+			],
+			"correct": false
+		}
+	]
+}
