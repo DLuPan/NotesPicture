@@ -1,4 +1,14 @@
 {
     "name":"配置缓存",
-  "lastTime":"2020-19-19 00:00:12"
+    "lastTime":"2020-19-19 00:00:12",
+    "storage":[
+        {
+            "cmd":"RE_FLOW_LINE",
+            "createTime":"2022-10-25 14:21:00",
+            "uid":"1",
+            "data":{
+                "env":"STG10-API"
+            }
+        }
+    ]
 }
