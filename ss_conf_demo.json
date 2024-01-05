@@ -1,6 +1,0 @@
-{
-  "server": "service.ouluyun9803.com",
-  "server_port": 50003,
-  "password": "73637ce2-699d-4d87-99af-0776ac880604",
-  "method": "chacha20-ietf-poly1305"
-}

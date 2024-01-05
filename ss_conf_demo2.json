@@ -1,0 +1,8 @@
+{
+    "protocol": "ss",
+    "encryption": "aes-256-cfb",
+    "obfs": "auth_sha1_v4",
+    "server": "45.87.153.246",
+    "port": 6199,
+    "password": "%E6%AC%A7%E7%9B%9F+V2CROSS.COM"
+}
